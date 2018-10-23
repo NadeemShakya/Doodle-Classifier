@@ -8,7 +8,7 @@ A project inspired from Google Quick Draw game - https://quickdraw.withgoogle.co
 Using googlecreativelab's quickdraw dataset.<br>
 https://github.com/googlecreativelab/quickdraw-dataset
 <br>
-MNIST database.
+MNIST database.<br>
 http://yann.lecun.com/exdb/mnist/
 
 # Language used.
@@ -24,7 +24,7 @@ https://p5js.org/
 <ul>
   <li>Supervised Learning</li>
   <li>Training and Testing Data</li>
-  <li>Overfittingi>
+  <li>Overfitting<i>
   <li>Softmax</li>
   <li>Cross-entropy</li>
  </ul>
