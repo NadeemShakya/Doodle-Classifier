@@ -86,7 +86,7 @@ function setup() {
   prepareData(rainbows, rainbows.bytes);
 
   
-  // viewData(trains);
+  viewData(trains);
 
 
 }
