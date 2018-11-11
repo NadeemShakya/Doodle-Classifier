@@ -1,7 +1,7 @@
 void setup() {
   size(280, 2800);
   background(153); 
-  byte[] data = loadBytes("train.npy");
+  byte[] data = loadBytes("rainbow.npy");
   int total = 1000;
   byte[] outdata = new byte[total * 784];
   int outdataIndex = 0;
@@ -22,5 +22,5 @@ void setup() {
     image(img, x, y);
   }
   
-  saveBytes("train1000.bin", outdata);
+  saveBytes("rainbow1000.bin", outdata);
 }
